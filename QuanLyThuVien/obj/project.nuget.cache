@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8gLvNBx1G4JjFwAeiUmVjSUwtwusIzzOUG0+R3eMUGSE/IKua+bxJWETk01wYhBmajexHNP9IHzdZAXd3bglA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Pham Van Vinh\\Desktop\\Đồ án 1\\Test-master\\QuanLyThuVien\\QuanLyThuVien.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages' doesn't exist.",
+      "libraryId": "DevExpress.ExpressApp.CodeAnalysis"
+    }
+  ]
+}
